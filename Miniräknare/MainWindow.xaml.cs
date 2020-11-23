@@ -20,9 +20,20 @@ namespace Miniräknare
     /// </summary>
     public partial class MainWindow : Window
     {
+        string input = string.Empty;
+        string tal1 = string.Empty;
+        string tal2 = string.Empty;
+        char operation;
+        double result = 0.0;
         public MainWindow()
+
         {
             InitializeComponent();
         }
+        private void Button_Clear(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
     }
 }
