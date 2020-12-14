@@ -23,6 +23,7 @@
         </Grid.RowDefinitions>
 
         <Button/>
+        <TextBlock Name ="Numbers"/>
         <Button Click="one_Click" Grid.Column="0" Content="1" FontSize="60"/>
         <Button Click="two_Click" Grid.Column="1" Content="2" FontSize="60"/>
         <Button Click="three_Click" Grid.Column="2" Content="3" FontSize="60"/>
@@ -40,6 +41,5 @@
         <Button Grid.Row="2" Grid.Column="4" Content="=" FontSize="60"/>
         <Button Grid.Row="3" Grid.Column="0" Content="C" FontSize="60"/>
         <Button Grid.Row="3" Grid.Column="1" Content="" Grid.ColumnSpan="4" FontSize="60"/>
-        
     </Grid>
 </Window>

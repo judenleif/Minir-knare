@@ -1,0 +1,5 @@
+C:\Users\lucas.lindqvist\source\repos\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.csprojAssemblyReference.cache
+C:\Users\lucas.lindqvist\source\repos\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lucas.lindqvist\source\repos\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lucas.lindqvist\source\repos\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare_MarkupCompile.cache
+C:\Users\lucas.lindqvist\source\repos\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare_MarkupCompile.lref
